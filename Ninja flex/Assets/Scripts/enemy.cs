@@ -22,11 +22,11 @@ public class enemy : MonoBehaviour
     {
         cuurentHealth -= damage;
 
+        animator.SetTrigger("Hurt");
+
         if (cuurentHealth <= 0)
         {
             Die();
-
-            animator.Play("dead");
 
         }
     }
@@ -35,6 +35,7 @@ public class enemy : MonoBehaviour
     {
         Debug.Log("enemy Died");
 
+        animator.SetBool("dead", true);
 
         this.enabled = false;
 
