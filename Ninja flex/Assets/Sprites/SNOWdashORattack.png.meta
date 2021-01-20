@@ -1,0 +1,1139 @@
+fileFormatVersion: 2
+guid: 17b5f4de25296a74294d4cddc95bc1a8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6246552548901019564
+    second: SNOWdashORattack_0
+  - first:
+      213: -3911081480432933725
+    second: SNOWdashORattack_1
+  - first:
+      213: -8644315833236401009
+    second: SNOWdashORattack_2
+  - first:
+      213: -5578982132227015720
+    second: SNOWdashORattack_3
+  - first:
+      213: -7918813888375381764
+    second: SNOWdashORattack_4
+  - first:
+      213: 8515094588645616486
+    second: SNOWdashORattack_5
+  - first:
+      213: 362576752911651552
+    second: SNOWdashORattack_6
+  - first:
+      213: 1813171494287071391
+    second: SNOWdashORattack_7
+  - first:
+      213: 3973667930111209255
+    second: SNOWdashORattack_8
+  - first:
+      213: -5810723870923273875
+    second: SNOWdashORattack_9
+  - first:
+      213: -8855874350442184128
+    second: SNOWdashORattack_10
+  - first:
+      213: -7563869077039194677
+    second: SNOWdashORattack_11
+  - first:
+      213: -4908199653096762869
+    second: SNOWdashORattack_12
+  - first:
+      213: 5564331725311997881
+    second: SNOWdashORattack_13
+  - first:
+      213: 813979997695548577
+    second: SNOWdashORattack_14
+  - first:
+      213: -9118825685086929282
+    second: SNOWdashORattack_15
+  - first:
+      213: -862952512401773034
+    second: SNOWdashORattack_16
+  - first:
+      213: 1029238682412234608
+    second: SNOWdashORattack_17
+  - first:
+      213: -1651853832363709732
+    second: SNOWdashORattack_18
+  - first:
+      213: -5663835304898746161
+    second: SNOWdashORattack_19
+  - first:
+      213: -149214399305033268
+    second: SNOWdashORattack_20
+  - first:
+      213: 569901393677133670
+    second: SNOWdashORattack_21
+  - first:
+      213: 4870635331825515808
+    second: SNOWdashORattack_22
+  - first:
+      213: -7311558953066235074
+    second: SNOWdashORattack_23
+  - first:
+      213: 1667333490909997183
+    second: SNOWdashORattack_24
+  - first:
+      213: 5240548823276016068
+    second: SNOWdashORattack_25
+  - first:
+      213: -6906331578091707206
+    second: SNOWdashORattack_26
+  - first:
+      213: -8582519585701681903
+    second: SNOWdashORattack_27
+  - first:
+      213: 4397836389477433611
+    second: SNOWdashORattack_28
+  - first:
+      213: -8871204282521282754
+    second: SNOWdashORattack_29
+  - first:
+      213: 6279556769975875209
+    second: SNOWdashORattack_30
+  - first:
+      213: -8580925019874053867
+    second: SNOWdashORattack_31
+  - first:
+      213: -6390022912299608443
+    second: SNOWdashORattack_32
+  - first:
+      213: 3850831227899813024
+    second: SNOWdashORattack_33
+  - first:
+      213: -5425335009125516705
+    second: SNOWdashORattack_34
+  - first:
+      213: -4271819479204993071
+    second: SNOWdashORattack_35
+  - first:
+      213: 38856906336821187
+    second: SNOWdashORattack_36
+  - first:
+      213: -1719387230509245171
+    second: SNOWdashORattack_37
+  - first:
+      213: -1339924253756528775
+    second: SNOWdashORattack_38
+  - first:
+      213: 7785624216420303120
+    second: SNOWdashORattack_39
+  - first:
+      213: 7206441367522951263
+    second: SNOWdashORattack_40
+  - first:
+      213: -9023810329158181069
+    second: SNOWdashORattack_41
+  - first:
+      213: 511128565738205018
+    second: SNOWdashORattack_42
+  - first:
+      213: 3254562746700175993
+    second: SNOWdashORattack_43
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNOWdashORattack_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 120
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450a1fb6d89cf49a0800000000000000
+      internalID: -6246552548901019564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNOWdashORattack_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 120
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4af278d1c09b9c0800000000000000
+      internalID: -3911081480432933725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNOWdashORattack_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 120
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84d8a99c88390880800000000000000
+      internalID: -8644315833236401009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNOWdashORattack_3
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 120
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db7b583f497392b0800000000000000
+      internalID: -5578982132227015720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNOWdashORattack_4
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 120
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0a4f469b8ba1290800000000000000
+      internalID: -7918813888375381764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNOWdashORattack_5
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 120
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ba219d961bb2670800000000000000
+      internalID: 8515094588645616486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNOWdashORattack_6
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 120
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e21d11c2a1280500800000000000000
+      internalID: 362576752911651552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNOWdashORattack_7
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 120
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9858d11edda92910800000000000000
+      internalID: 1813171494287071391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNOWdashORattack_8
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 120
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72fe3a5dded452730800000000000000
+      internalID: 3973667930111209255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNOWdashORattack_9
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 120
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d694cb90d692c5fa0800000000000000
+      internalID: -5810723870923273875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNOWdashORattack_10
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 123
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042866ed23d991580800000000000000
+      internalID: -8855874350442184128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNOWdashORattack_11
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 128
+        width: 52
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd5487462db70790800000000000000
+      internalID: -7563869077039194677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNOWdashORattack_12
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 143
+        width: 29
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02d8769b6292ebb0800000000000000
+      internalID: -4908199653096762869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNOWdashORattack_13
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 135
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b778ab193a783d40800000000000000
+      internalID: 5564331725311997881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNOWdashORattack_14
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 74
+        width: 36
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac9ae8ce76db4b00800000000000000
+      internalID: 813979997695548577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNOWdashORattack_15
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 61
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e7faf5a5c637180800000000000000
+      internalID: -9118825685086929282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNOWdashORattack_16
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 61
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ee248134d2604f0800000000000000
+      internalID: -862952512401773034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNOWdashORattack_17
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 61
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077b546e027984e00800000000000000
+      internalID: 1029238682412234608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNOWdashORattack_18
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 61
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdae71df0bf6319e0800000000000000
+      internalID: -1651853832363709732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNOWdashORattack_19
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 61
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8a1396cc30661b0800000000000000
+      internalID: -5663835304898746161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNOWdashORattack_20
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 61
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9dc0e5b42ededf0800000000000000
+      internalID: -149214399305033268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNOWdashORattack_21
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 61
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667202f4c42b8e700800000000000000
+      internalID: 569901393677133670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNOWdashORattack_22
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 61
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d3def4709f79340800000000000000
+      internalID: 4870635331825515808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNOWdashORattack_23
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 61
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3bf828dedf188a90800000000000000
+      internalID: -7311558953066235074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNOWdashORattack_24
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 67
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f786dcfd9fe832710800000000000000
+      internalID: 1667333490909997183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNOWdashORattack_25
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 19
+        width: 36
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1557f936b2ab840800000000000000
+      internalID: 5240548823276016068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNOWdashORattack_26
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 16
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4e7c26508c720a0800000000000000
+      internalID: -6906331578091707206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNOWdashORattack_27
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 9
+        width: 77
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1152b60b8e3c4e880800000000000000
+      internalID: -8582519585701681903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNOWdashORattack_28
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 6
+        width: 78
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01c61f35e0480d30800000000000000
+      internalID: 4397836389477433611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNOWdashORattack_29
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 6
+        width: 79
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37156ae4b623e480800000000000000
+      internalID: -8871204282521282754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNOWdashORattack_30
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 6
+        width: 64
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986bf4d9c97752750800000000000000
+      internalID: 6279556769975875209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNOWdashORattack_31
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 26
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511352a782e6ae880800000000000000
+      internalID: -8580925019874053867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNOWdashORattack_32
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 6
+        width: 66
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58656cd54041257a0800000000000000
+      internalID: -6390022912299608443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNOWdashORattack_33
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 6
+        width: 63
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac13f46996e07530800000000000000
+      internalID: 3850831227899813024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNOWdashORattack_34
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 6
+        width: 63
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a3599cd8655b4b0800000000000000
+      internalID: -5425335009125516705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNOWdashORattack_35
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 6
+        width: 63
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7646511d277b4c0800000000000000
+      internalID: -4271819479204993071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNOWdashORattack_36
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 6
+        width: 61
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cfd643862c0a8000800000000000000
+      internalID: 38856906336821187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNOWdashORattack_37
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 6
+        width: 60
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d572e6c628328e0800000000000000
+      internalID: -1719387230509245171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNOWdashORattack_38
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 6
+        width: 60
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97769ec8df1a76de0800000000000000
+      internalID: -1339924253756528775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNOWdashORattack_39
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 6
+        width: 60
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 011496e89f71c0c60800000000000000
+      internalID: 7785624216420303120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNOWdashORattack_40
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 2
+        width: 60
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50c2ed0e3c620460800000000000000
+      internalID: 7206441367522951263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNOWdashORattack_41
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 12
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f960ad05cf4c280800000000000000
+      internalID: -9023810329158181069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNOWdashORattack_42
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 15
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f6163f8b4e71700800000000000000
+      internalID: 511128565738205018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
