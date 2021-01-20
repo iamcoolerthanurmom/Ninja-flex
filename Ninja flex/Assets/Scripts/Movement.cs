@@ -85,7 +85,7 @@ public class Movement : MonoBehaviour
             if (doubleTapTime > Time.time && lastKeyCode == KeyCode.A)
             {
                 StartCoroutine(Dash(-1f));
-                
+                animator.SetTrigger("Dash");
             }
             else
             {
@@ -100,6 +100,7 @@ public class Movement : MonoBehaviour
             if (doubleTapTime > Time.time && lastKeyCode == KeyCode.D)
             {
                 StartCoroutine(Dash(1f));
+                animator.SetTrigger("Dash");
             }
             else
             {
@@ -109,7 +110,7 @@ public class Movement : MonoBehaviour
             lastKeyCode = KeyCode.D;
         }
 
-        animator.SetBool("Dash", false);
+        
     }
 
     void Flip()
@@ -122,7 +123,7 @@ public class Movement : MonoBehaviour
 
     IEnumerator Dash(float direction)
     {
-        animator.Play("DashAnimation");
+        
         isDashing = true;
         rb.velocity = new Vector2(rb.velocity.x, 0f);
         rb.AddForce(new Vector2(dashDistance * direction, 0f), ForceMode2D.Impulse);

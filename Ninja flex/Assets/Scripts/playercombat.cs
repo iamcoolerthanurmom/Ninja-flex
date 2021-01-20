@@ -13,6 +13,8 @@ public class playercombat : MonoBehaviour
     public float attackrate = 2f;
     float nextAttackTime = 0f;
 
+    public Animator animator;
+
     // Update is called once per frame
     void Update()
     {
@@ -28,6 +30,8 @@ public class playercombat : MonoBehaviour
 
     void Attack()
     {
+        animator.SetTrigger("Attack");
+
         Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(Attackpoint.position, attackRange, enemyLayers);
 
         foreach (Collider2D enemy in hitEnemies)

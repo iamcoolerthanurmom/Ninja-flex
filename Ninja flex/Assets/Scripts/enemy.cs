@@ -8,7 +8,7 @@ public class enemy : MonoBehaviour
     public int maxHealth = 100;
     public int cuurentHealth;
     public int dead = 1;
-
+    public Animator animator;
 
 
 
@@ -26,6 +26,8 @@ public class enemy : MonoBehaviour
         {
             Die();
 
+            animator.Play("dead");
+
         }
     }
 
@@ -39,7 +41,7 @@ public class enemy : MonoBehaviour
         Destroy(GetComponent<EnemyFollow>());
         Destroy(GetComponent<enemyfar>());
         Destroy(GetComponent<Rigidbody2D>());
-        Destroy(GetComponent<BoxCollider2D>());
+        Destroy(GetComponent<BoxCollider2D>());       
 
         dead = 0;
 
