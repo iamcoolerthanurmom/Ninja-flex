@@ -46,6 +46,9 @@ TagManager:
   - name: background
     uniqueID: 1037670339
     locked: 0
+  - name: instakill
+    uniqueID: 3420652183
+    locked: 0
   - name: deco
     uniqueID: 480116381
     locked: 0
