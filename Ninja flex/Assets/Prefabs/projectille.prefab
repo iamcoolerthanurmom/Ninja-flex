@@ -103,7 +103,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 480116381
-  m_SortingLayer: 2
+  m_SortingLayer: 3
   m_SortingOrder: 0
   m_Sprite: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
   m_Color: {r: 0.637, g: 0, b: 0, a: 1}
@@ -126,7 +126,7 @@ CircleCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
@@ -169,7 +169,7 @@ MonoBehaviour:
   atk: 5
   enemyLayers:
     serializedVersion: 2
-    m_Bits: 256
+    m_Bits: 768
   Attackpointenemy: {fileID: 877156573589586429}
   attackRange: 0.5
   enmy: {fileID: 0}
