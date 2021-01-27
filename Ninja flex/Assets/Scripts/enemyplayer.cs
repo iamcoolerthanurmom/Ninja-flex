@@ -7,8 +7,9 @@ public class enemyplayer : MonoBehaviour
 {
 
     public int maxHealth = 100;
-    int cuurentHealth;
+    public int cuurentHealth;
 
+    public HealthBar healthBar;
 
     // Start is called before the first frame update
     void Start()
@@ -24,6 +25,8 @@ public class enemyplayer : MonoBehaviour
         {
             Die();
         }
+
+        healthBar.setHealth(cuurentHealth);
     }
 
     void Die()
@@ -34,9 +37,11 @@ public class enemyplayer : MonoBehaviour
         this.enabled = false;
 
         SceneManager.LoadScene("Main");
-
-
     }
 
-
+    void Start()
+    {
+        cuurentHealth = maxHealth;
+        healthBar.SetMaxHealth(maxHealth);
+    }
 }
