@@ -98,6 +98,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: projectille
       objectReference: {fileID: 0}
+    - target: {fileID: 6334835389981529911, guid: 066f7f9a8b300a448bf32282d1edbc8e,
+        type: 3}
+      propertyPath: m_SortingLayerID
+      value: -1295124323
+      objectReference: {fileID: 0}
+    - target: {fileID: 6334835389981529911, guid: 066f7f9a8b300a448bf32282d1edbc8e,
+        type: 3}
+      propertyPath: m_SortingLayer
+      value: 4
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 066f7f9a8b300a448bf32282d1edbc8e, type: 3}
 --- !u!4 &5567690332076129029 stripped
