@@ -1,7 +1,34 @@
 fileFormatVersion: 2
 guid: e628a424d0cb6ff45affdc8870eeb990
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 5175994287500675179
+    second: Fernkampf Gegner death Animation_0
+  - first:
+      213: -818518744498188026
+    second: Fernkampf Gegner death Animation_1
+  - first:
+      213: -8426401788791337002
+    second: Fernkampf Gegner death Animation_2
+  - first:
+      213: -7217247331571157030
+    second: Fernkampf Gegner death Animation_3
+  - first:
+      213: 4846373050404730195
+    second: Fernkampf Gegner death Animation_4
+  - first:
+      213: 682147881564405304
+    second: Fernkampf Gegner death Animation_5
+  - first:
+      213: -6694574856304622566
+    second: Fernkampf Gegner death Animation_6
+  - first:
+      213: -3938628592149300100
+    second: Fernkampf Gegner death Animation_7
+  - first:
+      213: -6717438626190199193
+    second: Fernkampf Gegner death Animation_8
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -32,7 +59,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
+    filterMode: 0
     aniso: -1
     mipBias: -100
     wrapU: 1
@@ -41,7 +68,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -73,9 +100,189 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Fernkampf Gegner death Animation_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 65
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68cde18163d4d740800000000000000
+      internalID: 5175994287500675179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fernkampf Gegner death Animation_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 65
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601df20e98904a4f0800000000000000
+      internalID: -818518744498188026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fernkampf Gegner death Animation_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 65
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df4064d7386f0b80800000000000000
+      internalID: -8426401788791337002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fernkampf Gegner death Animation_3
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 29
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7b0916acf27db90800000000000000
+      internalID: -7217247331571157030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fernkampf Gegner death Animation_4
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 33
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3557666bc96c14340800000000000000
+      internalID: 4846373050404730195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fernkampf Gegner death Animation_6
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 33
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1483b733a71813a0800000000000000
+      internalID: -6694574856304622566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fernkampf Gegner death Animation_7
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 39
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c7eb6c92e2759c0800000000000000
+      internalID: -3938628592149300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fernkampf Gegner death Animation_8
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766f175f82dd6c2a0800000000000000
+      internalID: -6717438626190199193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
