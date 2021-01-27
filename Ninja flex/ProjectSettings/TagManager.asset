@@ -44,14 +44,14 @@ TagManager:
     uniqueID: 0
     locked: 0
   - name: background
-    uniqueID: 1037670339
-    locked: 0
-  - name: instakill
-    uniqueID: 3420652183
+    uniqueID: 2671699163
     locked: 0
   - name: deco
-    uniqueID: 480116381
+    uniqueID: 1868114051
     locked: 0
-  - name: platform
-    uniqueID: 3469879213
+  - name: killing blocks
+    uniqueID: 1522923929
+    locked: 0
+  - name: platforms
+    uniqueID: 2999842973
     locked: 0
