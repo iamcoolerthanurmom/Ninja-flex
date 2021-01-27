@@ -65,6 +65,8 @@ public class Movement : MonoBehaviour
 
     void Update()
     {
+      
+        
         if (isGrounded == true)
         {
             extrajumps = extrajumpsValue;
@@ -89,7 +91,7 @@ public class Movement : MonoBehaviour
             }
             else
             {
-                doubleTapTime = Time.time + 0.3f;
+                doubleTapTime = Time.time + 0.2f;
             }
 
             lastKeyCode = KeyCode.A;
@@ -104,11 +106,14 @@ public class Movement : MonoBehaviour
             }
             else
             {
-                doubleTapTime = Time.time + 0.3f;
+                doubleTapTime = Time.time + 0.2f;
             }
 
             lastKeyCode = KeyCode.D;
         }
+
+
+
 
         
     }
