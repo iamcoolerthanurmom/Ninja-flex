@@ -15,6 +15,7 @@ public class enemyplayer : MonoBehaviour
     void Start()
     {
         cuurentHealth = maxHealth;
+        healthBar.SetMaxHealth(maxHealth);
     }
 
     public void TakeDamage(int damage)
@@ -26,7 +27,7 @@ public class enemyplayer : MonoBehaviour
             Die();
         }
 
-        healthBar.setHealth(cuurentHealth);
+        healthBar.SetHealth(cuurentHealth);
     }
 
     void Die()
@@ -39,9 +40,5 @@ public class enemyplayer : MonoBehaviour
         SceneManager.LoadScene("Main");
     }
 
-    void Start()
-    {
-        cuurentHealth = maxHealth;
-        healthBar.SetMaxHealth(maxHealth);
-    }
+
 }
