@@ -18,6 +18,13 @@ public class enemyplayer : MonoBehaviour
         healthBar.SetMaxHealth(maxHealth);
     }
 
+    public void healing(int healvalue)
+    {
+        cuurentHealth += healvalue;
+
+        healthBar.SetHealth(cuurentHealth);
+    }
+
     public void TakeDamage(int damage)
     {
         cuurentHealth -= damage;
