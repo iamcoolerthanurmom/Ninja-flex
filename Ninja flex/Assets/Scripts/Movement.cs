@@ -65,8 +65,8 @@ public class Movement : MonoBehaviour
 
     void Update()
     {
-      
-        
+
+
         if (isGrounded == true)
         {
             extrajumps = extrajumpsValue;
@@ -115,7 +115,7 @@ public class Movement : MonoBehaviour
 
 
 
-        
+
     }
 
     void Flip()
@@ -128,7 +128,7 @@ public class Movement : MonoBehaviour
 
     IEnumerator Dash(float direction)
     {
-        
+
         isDashing = true;
         rb.velocity = new Vector2(rb.velocity.x, 0f);
         rb.AddForce(new Vector2(dashDistance * direction, 0f), ForceMode2D.Impulse);
