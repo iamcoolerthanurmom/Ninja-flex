@@ -9,7 +9,13 @@ public class enemyplayer : MonoBehaviour
     public int maxHealth = 100;
     public int cuurentHealth;
 
+    public Transform healCheck;
+    public int checkRadius;
+    public LayerMask whatisheal;
+    public int healvalue;
+
     public HealthBar healthBar;
+
 
     // Start is called before the first frame update
     void Start()
@@ -45,6 +51,18 @@ public class enemyplayer : MonoBehaviour
         this.enabled = false;
 
         SceneManager.LoadScene("Main");
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if(collision.CompareTag("Heal"))
+        {
+            Destroy(collision.gameObject);
+
+            cuurentHealth += 20;
+            healthBar.SetHealth(cuurentHealth);
+
+        }
     }
 
 
