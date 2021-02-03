@@ -16,6 +16,8 @@ public class enemyplayer : MonoBehaviour
 
     public HealthBar healthBar;
 
+    public Animator animator;
+
 
     // Start is called before the first frame update
     void Start()
@@ -58,6 +60,9 @@ public class enemyplayer : MonoBehaviour
         if(collision.CompareTag("Heal"))
         {
             Destroy(collision.gameObject);
+
+            animator.SetTrigger("Heal");
+
 
             cuurentHealth += 20;
             healthBar.SetHealth(cuurentHealth);
