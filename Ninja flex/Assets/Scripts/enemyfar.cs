@@ -20,6 +20,8 @@ public class enemyfar : MonoBehaviour
     public enemy enmy;
     public float maxrange;
 
+    public Animator animator;
+
 
 
     // Start is called before the first frame update
@@ -59,6 +61,7 @@ public class enemyfar : MonoBehaviour
             }
             if (timebtwshoots <= 0)
             {
+                animator.SetTrigger("Shoot");
                 Instantiate(projectile, transform.position, Quaternion.identity);
                 timebtwshoots = starttimebtwshoots;
             }
