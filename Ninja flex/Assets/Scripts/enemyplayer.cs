@@ -39,6 +39,8 @@ public class enemyplayer : MonoBehaviour
     {
         cuurentHealth -= damage;
 
+        animator.SetTrigger("Hurt");
+
         if (cuurentHealth <= 0)
         {
             Die();
