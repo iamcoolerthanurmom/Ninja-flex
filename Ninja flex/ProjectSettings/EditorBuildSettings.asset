@@ -23,4 +23,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Dungeon Map.unity
     guid: 195b7f20fb2bcab499d02b7c53fcd762
+  - enabled: 1
+    path: Assets/Scenes/Win.unity
+    guid: 12fe762b96eb1a14f85b4153d3f72d10
   m_configObjects: {}
