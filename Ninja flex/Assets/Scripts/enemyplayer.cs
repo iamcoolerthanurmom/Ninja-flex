@@ -18,6 +18,8 @@ public class enemyplayer : MonoBehaviour
 
     public Animator animator;
 
+    public string scene;
+
 
     // Start is called before the first frame update
     void Start()
@@ -52,7 +54,7 @@ public class enemyplayer : MonoBehaviour
         GetComponent<Collider2D>().enabled = false;
         this.enabled = false;
 
-        SceneManager.LoadScene("Main");
+        SceneManager.LoadScene(scene);
     }
 
     private void OnTriggerEnter2D(Collider2D collision)

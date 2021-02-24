@@ -10,6 +10,8 @@ public class instakill : MonoBehaviour
     public LayerMask whatIsGround;
     private bool isGrounded;
 
+    public string scene;
+
 
 
 
@@ -26,7 +28,7 @@ public class instakill : MonoBehaviour
 
         if (isGrounded == true)
         {
-            SceneManager.LoadScene("Main");
+            SceneManager.LoadScene(scene);
         }
     }
 }
