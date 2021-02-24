@@ -17,7 +17,7 @@ public class buttontrain : MonoBehaviour
 
     void TaskOnClick()
     {
-        Application.OpenURL("https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=PLj1tSxNb7AbklL7GQzOMMLjGTGtdRRjSP&index=168");
+        SceneManager.LoadScene("Trainingsroom");
     }
 
 }
