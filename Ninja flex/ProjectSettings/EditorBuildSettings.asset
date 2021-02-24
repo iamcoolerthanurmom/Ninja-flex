@@ -17,4 +17,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Trainingsroom.unity
     guid: 743877c0c453e9441bee3abb142b9922
+  - enabled: 1
+    path: Assets/Scenes/Trainingsraum-abgeschlossen.unity
+    guid: b73040c7836f6cc4a9929ab9eb4a9b04
+  - enabled: 1
+    path: Assets/Scenes/Dungeon Map.unity
+    guid: 195b7f20fb2bcab499d02b7c53fcd762
   m_configObjects: {}

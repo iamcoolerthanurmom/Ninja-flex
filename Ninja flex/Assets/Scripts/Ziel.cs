@@ -10,6 +10,7 @@ public class Ziel : MonoBehaviour
     public LayerMask whatIsGround;
     private bool isGrounded;
 
+    public string nextscene;
 
 
 
@@ -26,7 +27,7 @@ public class Ziel : MonoBehaviour
 
         if (isGrounded == true)
         {
-            SceneManager.LoadScene("Victory");
+            SceneManager.LoadScene(nextscene);
         }
     }
 }
