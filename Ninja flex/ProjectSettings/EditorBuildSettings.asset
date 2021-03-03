@@ -9,11 +9,8 @@ EditorBuildSettings:
     path: Assets/Scenes/Menu.unity
     guid: 68aa4a804bb6c2d428e4e70a7ec68724
   - enabled: 1
-    path: Assets/Scenes/Main.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
-  - enabled: 1
-    path: Assets/Scenes/Victory.unity
-    guid: 418ded3911a90a74fb5c2fe39ab9e2fb
+    path: Assets/Scenes/Levelmenu.unity
+    guid: e60fd11b000b9ea43bff937f40fc2463
   - enabled: 1
     path: Assets/Scenes/Trainingsroom.unity
     guid: 743877c0c453e9441bee3abb142b9922
@@ -21,12 +18,15 @@ EditorBuildSettings:
     path: Assets/Scenes/Trainingsraum-abgeschlossen.unity
     guid: b73040c7836f6cc4a9929ab9eb4a9b04
   - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Victory.unity
+    guid: 418ded3911a90a74fb5c2fe39ab9e2fb
+  - enabled: 1
     path: Assets/Scenes/Dungeon Map.unity
     guid: 195b7f20fb2bcab499d02b7c53fcd762
   - enabled: 1
     path: Assets/Scenes/Win.unity
     guid: 12fe762b96eb1a14f85b4153d3f72d10
-  - enabled: 1
-    path: Assets/Scenes/Levelmenu.unity
-    guid: e60fd11b000b9ea43bff937f40fc2463
   m_configObjects: {}
