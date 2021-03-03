@@ -9,7 +9,6 @@ public class projectille : MonoBehaviour
     private Transform player;
     private Vector2 target;
 
-    bool attack = false;
 
     public int atk;
     public LayerMask enemyLayers;
@@ -56,8 +55,6 @@ public class projectille : MonoBehaviour
         if (other.CompareTag("Player"))
         {
             DestroyProjectile();
-
-            attack = true;
 
             Attack();
 

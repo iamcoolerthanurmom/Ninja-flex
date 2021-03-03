@@ -9,7 +9,6 @@ public class EnemyFollow : MonoBehaviour
     public float minDistance;
     public float maxDistance;
 
-    bool attack = false;
 
     float nextAttackTime = 0f;
     public int atk;
@@ -37,21 +36,20 @@ public class EnemyFollow : MonoBehaviour
 
         if (Vector2.Distance(transform.position, target.position) > minDistance + 1)
         {
-            attack = true;
+            
         }
         else
         {
-            attack = false;
+            
         }
 
-        if (attack = true)
-        {
+        
             if (Time.time >= nextAttackTime)
             {
                 Attack();
                 nextAttackTime = Time.time + 1f / attackrate;
             }
-        }
+        
     }
 
     void Attack()
